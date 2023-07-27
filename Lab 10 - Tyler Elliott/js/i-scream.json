@@ -39,24 +39,24 @@
       "image": "strawberry-sprinkle.svg"
     },
     {
-      "name": "Stupendous Strawberry",
-      "calories": 425,
-      "type": "frozen yogurt",
+      "name": "Kiwi Krunch",
+      "calories": 300,
+      "type": "frozen smoothie",
       "ingredients": [
-        "wild strawberries",
-        "milk chocolate dip",
-        "candy sprinkles"
+        "kiwi",
+        "vanilla ice cream",
+        "Smarties and M&Ms"
       ],
       "image": "ice-cream-xtra1.svg"
     },
     {
-      "name": "Stupendous Strawberry",
-      "calories": 425,
-      "type": "frozen yogurt",
+      "name": "Cookies n' Cream Supreme",
+      "calories": 700,
+      "type": "ice cream",
       "ingredients": [
-        "wild strawberries",
-        "milk chocolate dip",
-        "candy sprinkles"
+        "butterscotch ice cream",
+        "crushed Oreo chunks",
+        "chocolate chunks"
       ],
       "image": "ice-cream-xtra2.svg"
     }
